@@ -1,8 +1,6 @@
 - 👋 Hi There
-
-<!---
+- 
   I am a passionate front-end developer with expertise in HTML, CSS, and JavaScript
-
 - 👀 I’m interested in ...Frontend Project
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ... Frontend Project
